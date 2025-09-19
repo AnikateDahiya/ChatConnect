@@ -1,18 +1,19 @@
 {
-  "name": "server",
+  "name": "chatconnect-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend server for ChatConnect - a real-time chat application using Express and Socket.io",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Your Name",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "nodemon": "^3.1.4",
     "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
   }
 }
