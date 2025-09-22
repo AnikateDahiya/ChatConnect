@@ -23,7 +23,7 @@ A **real-time chat application** built with **React**, **Vite**, and **Socket.IO
 ---
 
 ## 🌐 Live Demo
-
+* **Live :** https://anikate-chat-connect.vercel.app/ 
 * **Frontend:** https://chat-connect-m60ruj2ae-anikatedahiyas-projects.vercel.app
 * **Backend:** https://chatconnect-qdo3.onrender.com
 
@@ -104,3 +104,4 @@ ChatConnect/
 ## 📄 License
 
 This project is **MIT licensed**.
+
